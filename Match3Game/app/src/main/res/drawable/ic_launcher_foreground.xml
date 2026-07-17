@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Red gem (diamond) -->
+    <path
+        android:fillColor="#FF5A5F"
+        android:pathData="M42,30 L54,42 L42,54 L30,42 Z" />
+    <!-- Green gem -->
+    <path
+        android:fillColor="#4CD964"
+        android:pathData="M66,30 L78,42 L66,54 L54,42 Z" />
+    <!-- Blue gem -->
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M54,54 L66,66 L54,78 L42,66 Z" />
+    <!-- Yellow accent gem -->
+    <path
+        android:fillColor="#FFC93C"
+        android:pathData="M30,54 L42,66 L30,78 L18,66 Z" />
+    <path
+        android:fillColor="#B14AE2"
+        android:pathData="M78,54 L90,66 L78,78 L66,66 Z" />
+</vector>

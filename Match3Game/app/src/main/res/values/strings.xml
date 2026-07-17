@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gem Crush</string>
+    <string name="score_label">Score</string>
+    <string name="moves_label">Moves</string>
+    <string name="game_over">Game Over</string>
+    <string name="final_score">Final Score</string>
+    <string name="play_again">Play Again</string>
+</resources>
